@@ -1,14 +1,13 @@
-# Employee Database Management System
+# Support Ticket Analysis System
 
 ## Overview
-A SQL mini-project to manage employee records using CRUD operations, joins, filtering, and aggregate functions.
+A SQL project to manage and analyze support tickets based on priority and status.
 
 ## Features
-- Create and manage employee records
-- Department management
-- CRUD operations
-- SQL joins and aggregations
-- Data analysis queries
+- Ticket tracking
+- Priority analysis
+- Status monitoring
+- SQL reporting queries
 
 ## Tools Used
 - MySQL
@@ -17,11 +16,11 @@ A SQL mini-project to manage employee records using CRUD operations, joins, filt
 ## How to Run
 1. Open MySQL Workbench
 2. Run the SQL file
-3. Execute queries step-by-step
+3. Execute the analysis queries
 
 ## Skills Demonstrated
-- SQL
-- Database Management
-- Joins
-- Aggregate Functions
-- Troubleshooting Basics
+- SQL Queries
+- GROUP BY
+- Filtering
+- Data Analysis
+- Support Workflow Understanding
